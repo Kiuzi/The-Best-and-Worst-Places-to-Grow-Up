@@ -1,5 +1,5 @@
 ## The Best and Worst Places to Grow Up
-Children who grow up in some places go on to earn much more than they would if they grew up elsewhere
+Children who grow up in some places go on to earn much more than they would if they grew up elsewhere:
 
 ![shot image](PlacesToGrowUp.png?raw=true)
 
