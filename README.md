@@ -1,4 +1,4 @@
-# The Best and Worst Places to Grow Up
+## The Best and Worst Places to Grow Up
 Code to reproduce:
 ![shot image](PlacesToGrowUp.png?raw=true)
 
