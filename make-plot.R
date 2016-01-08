@@ -1,4 +1,5 @@
 library(ggplot2)
+data<- read.csv("data/Household_Income.csv", header=TRUE, stringsAsFactors=FALSE)
 
 ## Making counties and states names lowercase to match the "counties" dataset used for mapping
 data$County<-tolower(data$County) 
