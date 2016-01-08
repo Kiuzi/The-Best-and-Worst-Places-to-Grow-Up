@@ -5,4 +5,4 @@ Children who grow up in some places go on to earn much more than they would if t
 
 From: http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html?_r=0
 
-Using data from (search for 'here' in the homepage): http://www.equality-of-opportunity.org/ 
+Using data from: http://www.equality-of-opportunity.org/. Search for the term 'here' in the homepage.
